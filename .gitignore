@@ -4,6 +4,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
+=======
+output/*
+>>>>>>> Initial commit
 
 # C extensions
 *.so
